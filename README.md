@@ -1,12 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
-# 유레카 프로젝트💎
+# ❗️유레카 프로젝트💕
 
 ## 🙋‍♀️ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
 | --- | --- | --- |
-| **문가은** | 소프트웨어전공 | 웹 개발 |
-| **최윤지** | 정보보안암호수학과 | 데이터분석 |
+| **문가은🐱** | 소프트웨어전공 | 웹 개발 |
+| **최윤지💎** | 정보보안암호수학과 | 데이터분석 |
 
 
 ### 팀 슬로건
