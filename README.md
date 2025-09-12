@@ -22,7 +22,7 @@
 
 
 ## 2️⃣ 공통된 관심사 : 카공, 혼자있기
-<img width="1024" height="607" alt="Image" src="https://github.com/user-attachments/assets/ceb80b84-9272-46f6-8afc-b08cab99dccb" width="100" height="200" />
+<img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/ceb80b84-9272-46f6-8afc-b08cab99dccb />
 <br>
 
 | **이름** | **관심사** |
