@@ -22,8 +22,7 @@
 
 
 ## 2️⃣ 공통된 관심사 : 카공, 혼자있기
-![Image](https://github.com/user-attachments/assets/c0280888-4b11-4bd8-b3eb-1a969127cf84)
-![Image](https://github.com/user-attachments/assets/61dd5533-e64b-411f-875a-de32b29650f9)
+
 | **이름** | **관심사** |
 | --- | --- |
 | **문가은** | 웹, SI(System Integration), 여행, 사진, 카공, 혼자있기 |
