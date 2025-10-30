@@ -1,6 +1,1 @@
-git pull
-git rm "유레카프로젝트 3조 발표자료"
-git commit -m "Remove folder"
-git push
-
 
