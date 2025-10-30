@@ -1,1 +1,5 @@
+git pull
+git rm -r "유레카프로젝트_발표자료"
+git commit -m "Delete folder"
+git push
 
