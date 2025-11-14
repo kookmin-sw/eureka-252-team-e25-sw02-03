@@ -62,7 +62,7 @@
     <br>
     🔹앞으로 열심히 공부하면 좋은 과목 : 운영체제, 데이터베이스, 컴퓨터 네트워크
     <br>
-    <img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/77f6933e-6aac-4cdb-9184-45c6d1ec6dcf" />
+    <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/77f6933e-6aac-4cdb-9184-45c6d1ec6dcf" />
 
 ###✔️ 프로젝트 진행  
   - 과거에 사람들이 상상한 미래
