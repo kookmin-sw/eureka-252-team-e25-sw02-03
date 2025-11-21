@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
+<img width="400" height="800" alt="Image" src="https://classroom.github.com/a/meKNgBF9" />
 # ❗️유레카 프로젝트💕
 <br>
  <img width="350" height="200" alt="Image" src="https://github.com/kookmin-sw/eureka-252-team-e25-sw02-03/issues/4" />
