@@ -1,5 +1,6 @@
 # ❗️유레카 프로젝트💕
 <img width="1999" height="2832" alt="Image" src="https://github.com/user-attachments/assets/235ede76-a0ae-42b8-b989-fed9cd489e22" />
+<br>
 ## 🙋‍♀️ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
