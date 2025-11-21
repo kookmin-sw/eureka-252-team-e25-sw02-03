@@ -74,6 +74,9 @@
     <br>
     ▫️웹 개발은 결국 소프트웨어 설계 능력이 필요하므로 소프트웨어 디자인 패턴, 소프트웨어 공학 같은 과목도 1~2개 수강하면 좋음
     <br>
+    <br>
+    <img width="350" height="200" alt="Image" src=https://github.com/user-attachments/assets/915b7c1a-d4af-4dbc-99f2-4cd62e30a84e" />
+    <br>
   - 대학원 방문 및 선배 만나기
     <br>
     🔹대학원 선배가 하고 계시는 연구 : 암호 트래픽 연구
