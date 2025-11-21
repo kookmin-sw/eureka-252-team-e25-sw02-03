@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # ❗️유레카 프로젝트💕
-
+<br>
+![Image](https://github.com/user-attachments/assets/0fe6ea00-7981-45bc-b30b-46c02a61c782)
+<br>
 ## 🙋‍♀️ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
