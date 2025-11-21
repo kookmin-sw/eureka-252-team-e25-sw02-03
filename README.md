@@ -1,8 +1,4 @@
-<img width="400" height="800" alt="Image" src="https://classroom.github.com/a/meKNgBF9" />
 # ❗️유레카 프로젝트💕
-<br>
- <img width="350" height="200" alt="Image" src="https://github.com/kookmin-sw/eureka-252-team-e25-sw02-03/issues/4" />
-<br>
 ## 🙋‍♀️ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
